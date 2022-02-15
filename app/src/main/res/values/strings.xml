@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recycler view</string>
+
+    <string-array name="ipl_teams">
+        <item>CSK</item>
+        <item>DD</item>
+        <item>KKR</item>
+        <item>MI</item>
+        <item>PBKS</item>
+        <item>RCB</item>
+        <item>RR</item>
+        <item>SRH</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>4 TIME TITLE WINNERS</item>
+        <item>0 TIME TITLE WINNERS</item>
+        <item>2 TIME TITLE WINNERS</item>
+        <item>5 TIME TITLE WINNERS</item>
+        <item>0 TIME TITLE WINNERS</item>
+        <item>0 TIME TITLE WINNERS</item>
+        <item>1 TIME TITLE WINNERS</item>
+        <item>1 TIME TITLE WINNERS</item>
+    </string-array>
+</resources>
